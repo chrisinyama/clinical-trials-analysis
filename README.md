@@ -4,6 +4,7 @@
 This project leverages Spark and Databricks for a comprehensive analysis of clinical trial datasets and pharmaceutical company records. Using Spark SQL, RDDs, and DataFrames, the project explores datasets spanning clinical trials from 2019 to 2021 and pharmaceutical violations. The analysis aims to provide critical insights into clinical trial trends, sponsors, conditions studied, and the landscape of pharmaceutical companies.
 
 **Table of Contents**
+
 Datasets Description
 Description of Setup
 Setting up Notebooks
@@ -29,6 +30,7 @@ Notebooks were configured within Databricks to work seamlessly with the datasets
 Unzipping of compressed datasets was crucial for processing. The process involved moving files to specific directories, making datasets readily available for analysis.
 
 **Question 1-5**
+
 Each question was systematically addressed across three implementations - RDD, DataFrame, and SQL - to derive insights and answers. These implementations covered tasks like listing study types, identifying top conditions, sponsors excluding pharmaceutical companies, completion date analysis, and further advanced features using SQL, RDD, and DataFrame methodologies.
 
 **Usage/Examples**
