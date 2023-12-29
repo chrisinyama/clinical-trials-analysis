@@ -5,15 +5,25 @@ This project leverages Spark and Databricks for a comprehensive analysis of clin
 
 ## Table of Contents
 Datasets Description
+
 Description of Setup
+
 Setting up Notebooks
+
 Data Cleaning and Preparation
+
 Question 1-5
+
 Usage/Examples
+
 Limitations
+
 Recommendations
+
 Further Analysis
+
 Conclusion
+
 Additional Considerations
 
 
